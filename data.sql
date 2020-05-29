@@ -40,10 +40,10 @@ CREATE TABLE `data` (
 --
 
 INSERT INTO `data` (`Name`, `DOB`, `Mobile`, `Gmail`) VALUES
-('Amit', '21 December 1999', '09621254911', 'aquaman9621@gmail.com'),
-('Bipin Pathak', '21 December 1999', '09621254911', 'pathakshubham1228@gmail.com'),
-('cow mishra', '21 December 1999', '09621254911', 'amit.pathak@publicissapient.com'),
-('mayank pathak', '21 December 1999', '09621254911', 'kashamashukla0578@gmail.com');
+('Charan', '25 March 1999', '7730942536', 'charankumar@gmail.com'),
+('Santosh ', '31 March 1992', '9836826282', 'san@gmail.com'),
+('bhargav', '21 December 1999', '7872637337', 'sashi.isuf@publicissapient.com'),
+('sonu', '22 April 1999', '8368262538', 'sonu@gmail.com');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
