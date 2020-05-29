@@ -40,7 +40,6 @@ $x=$_POST['nm'];
 		</div>
 
 	</form>
-
 </center>
 
 
