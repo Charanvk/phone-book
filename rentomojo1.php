@@ -8,7 +8,7 @@
 </head>
 <body>
 <center>
-	<form method="post">
+<form method="post">
 		<div style="border-style: solid; height: 380px;width: 300px;margin-top: 60px;">
 		<h3>Add new Contact</h3>
 		Name:
